@@ -1,2 +1,2 @@
-# Nodemcu-prog.
+# Nodemcu-and-Pytyhon -prog.
 prog.. of nodemcu
